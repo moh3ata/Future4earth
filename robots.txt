@@ -2,9 +2,6 @@ User-Agent: *
 Disallow: /swf/
 
 User-Agent: *
-Disallow: /cdn-cgi/
+Disallow: /cdn-cgi/
 
-User-Agent: *
-Disallow: *.php.htm
-
-Sitemap: https://future4earth.uk/sitemap.xml
+Sitemap: https://future4earth.page/sitemap.xml
